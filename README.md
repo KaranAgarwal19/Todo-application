@@ -15,6 +15,5 @@ This is a simple todo application.
 - IntelliJ IDEA (you can use any other IDE)  
 - Thymeleaf + Bootstrap CSS  
 
+<img width="1741" height="685" alt="image" src="https://github.com/user-attachments/assets/a074e02b-dbbf-46fd-9fc1-e24487817648" />
 
-## Screenshot
-![Todo App Screenshot](images/image.png)
